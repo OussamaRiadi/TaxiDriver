@@ -53,3 +53,18 @@ Le tarif sera mis à jour en temps réel à chaque changement de position.
 Notifications
 
 Une notification sera créée pour signaler la fin de la course et afficher le tarif total, la distance et le temps écoulé.
+
+![image](https://github.com/user-attachments/assets/be95ca35-579c-4b75-97c0-93c0d7d11dd4)
+
+![image](https://github.com/user-attachments/assets/a6b1bfe4-1fd5-45f8-9556-c123c03c8d07)
+
+![image](https://github.com/user-attachments/assets/720ae336-9956-4dc0-95d8-b587c837cdb0)
+
+![image](https://github.com/user-attachments/assets/a7506b2b-a495-4f48-ab38-ceb6d8ea2d4f)
+
+
+
+![image](https://github.com/user-attachments/assets/e9ba0455-dde5-40ff-a4e6-a4f453764997)
+
+
+
