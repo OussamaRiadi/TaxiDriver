@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/yellow"
+    android:padding="16dp"
+    android:background="@color/white">
+
+    <!-- Header Title -->
+    <TextView
+        android:id="@+id/header_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Taxi Counter"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Fare Details -->
+    <TextView
+        android:id="@+id/text_base_fare"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Tarif de base : 2.5 DH"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:drawableStart="@drawable/ic_money"
+        android:drawablePadding="8dp"
+        app:layout_constraintTop_toBottomOf="@id/header_title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/text_kilometer_fare"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Tarif par kilomètre : 1.5 DH"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:drawableStart="@drawable/ic_distance"
+        android:drawablePadding="8dp"
+        app:layout_constraintTop_toBottomOf="@id/text_base_fare"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/text_minute_fare"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Tarif par minute : 0.5 DH"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:drawableStart="@drawable/ic_timer"
+        android:drawablePadding="8dp"
+        app:layout_constraintTop_toBottomOf="@id/text_kilometer_fare"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp" />
+
+    <!-- Dynamic Fare Updates -->
+    <TextView
+        android:id="@+id/text_total_fare"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Tarif total : 0 DH"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/red"
+        android:drawableStart="@drawable/ic_total"
+        android:drawablePadding="8dp"
+        app:layout_constraintTop_toBottomOf="@id/text_minute_fare"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="32dp" />
+
+    <!-- Start Button -->
+    <Button
+        android:id="@+id/button_start"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Start Ride"
+        android:backgroundTint="@color/green"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        app:layout_constraintTop_toBottomOf="@id/text_total_fare"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="24dp" />
+
+    <!-- Stop Button -->
+    <Button
+        android:id="@+id/button_stop"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Stop Ride"
+        android:backgroundTint="@color/red"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        app:layout_constraintTop_toBottomOf="@id/button_start"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

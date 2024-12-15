@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Taxi Driver</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key">AIzaSyAOVYRIgupAurZup5y1PRh8Ismb1A3lLao</string>
+    <string name="qr_code" />
+
+    <string-array name="type_permis">
+            <item>Permis A</item>
+            <item>Permis B</item>
+            <item>Permis C</item>
+            <item>Permis D</item>
+        </string-array>
+        <string name="nav_map">Map</string>
+        <string name="nav_details">Driver details</string>
+        <string name="nav_about">Taxi counter</string>
+        <string name="nav_logout">Logout</string>
+        <string name="change_language">Change Language</string>
+
+
+</resources>
