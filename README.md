@@ -31,3 +31,25 @@ Le calcul de la distance parcourue et du temps écoulé sera effectué en temps 
 Traduction Multilingue
 
 L'application sera disponible en trois langues : Arabe, Français et Anglais, pour atteindre un public plus large.
+
+<br>
+<h1>Détails Techniques</h1>
+Permissions et Manifest
+
+L'application demandera les permissions nécessaires pour accéder à la localisation dans le fichier AndroidManifest.xml.
+La gestion des permissions sera simplifiée en utilisant EasyPermissions.
+UI et Composants
+
+L'interface principale comprendra plusieurs éléments :
+Un TextView pour afficher la distance parcourue.
+Un TextView pour afficher le temps écoulé.
+Un TextView pour afficher le tarif total.
+Un Button pour démarrer la course.
+Une carte Google Map pour afficher la position du chauffeur en temps réel.
+Calcul du Tarif
+
+Une méthode sera implémentée pour calculer le tarif basé sur la distance parcourue et le temps écoulé.
+Le tarif sera mis à jour en temps réel à chaque changement de position.
+Notifications
+
+Une notification sera créée pour signaler la fin de la course et afficher le tarif total, la distance et le temps écoulé.
