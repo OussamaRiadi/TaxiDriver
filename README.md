@@ -11,3 +11,23 @@ Le tarif total est calculé en fonction de la distance parcourue et du temps éc
 Tarif de base : Un prix fixe au début de la course.
 Tarif par kilomètre : Le prix par distance parcourue (par exemple, 1.5 DH/km).
 Tarif par minute : Le prix basé sur le temps écoulé (par exemple, 0.5 DH/min).
+Notifications
+
+Une notification sera envoyée à la fin de la course, incluant des informations sur la distance parcourue, le temps écoulé, et le tarif total.
+Gestion des Permissions
+
+L'application demandera l'autorisation d'accès à la localisation à l'exécution, en utilisant la bibliothèque EasyPermissions pour simplifier cette gestion.
+Interface Utilisateur
+
+L'interface principale comprendra :
+Un TextView pour afficher la distance parcourue.
+Un TextView pour afficher le temps écoulé.
+Un TextView pour afficher le tarif total.
+Un Button pour démarrer la course.
+Une carte Google Maps pour afficher la position du chauffeur en temps réel.
+Calcul de la Distance et du Temps
+
+Le calcul de la distance parcourue et du temps écoulé sera effectué en temps réel en utilisant les services de géolocalisation (FusedLocationProviderClient).
+Traduction Multilingue
+
+L'application sera disponible en trois langues : Arabe, Français et Anglais, pour atteindre un public plus large.
