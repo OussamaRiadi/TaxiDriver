@@ -51,8 +51,10 @@ dependencies {
     implementation (libs.androidx.navigation.fragment.ktx)
     implementation ("androidx.navigation:navigation-ui-ktx:2.8.5")
     implementation ("com.google.android.gms:play-services-base:18.1.0")
-
-
+        // Room components
+        implementation ("androidx.room:room-runtime:2.6.1")
+        implementation ("androidx.room:room-ktx:2.6.1") // Kotlin extensions for Room
+    implementation ("de.hdodenhof:circleimageview:3.1.0")
     // AndroidX and Material Components
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)

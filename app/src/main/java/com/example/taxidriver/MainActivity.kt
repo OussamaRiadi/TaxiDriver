@@ -60,7 +60,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         when (item.itemId) {
             R.id.nav_map -> loadFragment(HomeFragment()) // Load HomeFragment
             R.id.nav_details -> loadFragment(DriverFragment()) // Load DriverFragment
-            R.id.nav_about -> loadFragment(CounterFragment()) // Load CounterFragment
             R.id.nav_logout -> logoutUser() // Handle logout
         }
 

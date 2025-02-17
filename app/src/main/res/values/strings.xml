@@ -18,6 +18,11 @@
         <string name="nav_about">Taxi counter</string>
         <string name="nav_logout">Logout</string>
         <string name="change_language">Change Language</string>
+    <string name="start_ride">Start ride\n</string>
+    <string name="stop_ride">Stop ride\n</string>
+    <string name="taxi_counter">Taxi counter\n</string>
+    <string name="image_preview">Sélectionner une image</string>
+    <string name="profile_picture">profile picture\n</string>
 
 
 </resources>
