@@ -64,7 +64,6 @@ Une notification sera créée pour signaler la fin de la course et afficher le t
 
 
 
-![image](https://github.com/user-attachments/assets/e9ba0455-dde5-40ff-a4e6-a4f453764997)
 
 
 
