@@ -62,12 +62,5 @@ L'interface principale comprendra plusieurs éléments :
 
 # 📸 Captures d'écran
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/50cc5578-5b22-4bc5-82f7-92daa6b69aeb" alt="Screenshot 1" style="width:100%;">
-  <img src="https://github.com/user-attachments/assets/9657f1a4-3b5b-4357-be88-30a00a65141f" alt="Screenshot 2" style="width:100%;">
-  <img src="https://github.com/user-attachments/assets/aaad9004-6f70-4795-98b4-aa9bafcdaa9e" alt="Screenshot 3" style="width:100%;">
-  <img src="https://github.com/user-attachments/assets/7363b4a7-d7d3-470f-aa31-6036004f61e8" alt="Screenshot 4" style="width:100%;">
-  <img src="https://github.com/user-attachments/assets/6f0ab9ae-686b-4dfc-8960-536dad8af7f4" alt="Screenshot 5" style="width:100%;">
-  <img src="https://github.com/user-attachments/assets/6c120eb7-6716-4f1d-9841-7b947244585c" alt="Screenshot 6" style="width:100%;">
-  <img src="https://github.com/user-attachments/assets/bd7486e7-3385-4168-839c-b0c239483b21" alt="Screenshot 7" style="width:100%;">
-</div>
+![photo_5884470860901893299_y](https://github.com/user-attachments/assets/26c1f838-5fae-467f-8005-d4c9bd168ce8)
+
