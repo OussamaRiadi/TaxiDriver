@@ -53,14 +53,14 @@ Le tarif sera mis à jour en temps réel à chaque changement de position.
 Notifications
 
 Une notification sera créée pour signaler la fin de la course et afficher le tarif total, la distance et le temps écoulé.
+![photo_5884470860901893297_y](https://github.com/user-attachments/assets/50cc5578-5b22-4bc5-82f7-92daa6b69aeb)
+![photo_5884470860901893296_y](https://github.com/user-attachments/assets/9657f1a4-3b5b-4357-be88-30a00a65141f)
+![photo_5884470860901893295_y](https://github.com/user-attachments/assets/aaad9004-6f70-4795-98b4-aa9bafcdaa9e)
+![photo_5884470860901893294_y](https://github.com/user-attachments/assets/7363b4a7-d7d3-470f-aa31-6036004f61e8)
+![photo_5884470860901893293_y](https://github.com/user-attachments/assets/6f0ab9ae-686b-4dfc-8960-536dad8af7f4)
+![photo_5884470860901893293_y (1)](https://github.com/user-attachments/assets/6c120eb7-6716-4f1d-9841-7b947244585c)
+![photo_5884470860901893292_y](https://github.com/user-attachments/assets/bd7486e7-3385-4168-839c-b0c239483b21)
 
-![image](https://github.com/user-attachments/assets/be95ca35-579c-4b75-97c0-93c0d7d11dd4)
-
-![image](https://github.com/user-attachments/assets/a6b1bfe4-1fd5-45f8-9556-c123c03c8d07)
-
-![image](https://github.com/user-attachments/assets/720ae336-9956-4dc0-95d8-b587c837cdb0)
-
-![image](https://github.com/user-attachments/assets/a7506b2b-a495-4f48-ab38-ceb6d8ea2d4f)
 
 
 
